@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustTyping1
-- 👀 I’m interested in maths, data, machine learning and making cool and useful apps
-- 🌱 I’m currently learning python, java and c, particularly flask and the sklearn library
+- 👀 I’m interested in maths, science and code
+- 🌱 I’m currently learning python, java and c
 
 <!---
 JustTyping1/JustTyping1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
