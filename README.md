@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JustTyping1
+# *👋 Hi, I’m @JustTyping1*
 - 👀 I’m interested in maths, science and code
-- 🌱 I’m currently learning python, java and c
+- 🌱 I’m currently learning python, java and golang
 
 <!---
 JustTyping1/JustTyping1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
